@@ -1,0 +1,9 @@
+# bloop
+.bsp
+
+# intellij idea
+*.idea
+
+#sbt
+project/
+target/
